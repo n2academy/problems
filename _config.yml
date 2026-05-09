@@ -1,0 +1,4 @@
+name: Blog
+markdown: kramdown
+# pygments: true
+baseurl: /problems
